@@ -62,7 +62,7 @@ git commit: Registra as alterações no repositório.
 
 git push: Envia os commits locais para o repositório remoto.
 
-
+ssh
 5. Conclusão:
 
 Este artigo forneceu uma introdução básica ao uso do Git para iniciantes, abordando conceitos fundamentais e fornecendo instruções passo a passo para iniciar um projeto e realizar operações básicas com o Git. Para continuar aprendendo, recomenda-se explorar comandos adicionais, como git pull, git branch e git merge, e praticar regularmente para aprimorar suas habilidades com o Git.
